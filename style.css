@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+canvas {
+  background-color: #a2eae2;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.button2 {
+  width: 540px;
+  height: 480px;
+  background-color:rgba(0, 0, 0, 0);
+
+  position:absolute;
+  top:1680px;
+  left:540px;
+  z-index:2;
+  border: 0px;
+  padding: 0px;
+  box-shadow: none;
+  outline: none;
+
+
+
+}
