@@ -2,4 +2,5 @@
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
   <name>Second</name>
   <preference name="android-manifest/application/activity/@android:theme" value="@android:style/Theme.Light.NoTitleBar.Fullscreen"/>
+   <widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="com.eli.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US">
 </widget>
