@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-  <name>Game 4</name>
+  <name>Second</name>
   <preference name="android-manifest/application/activity/@android:theme" value="@android:style/Theme.Light.NoTitleBar.Fullscreen"/>
 </widget>
